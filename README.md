@@ -42,5 +42,5 @@ Because I understand how software supply chains and cloud misconfigurations are 
 ---
 
 ### 📈 GitHub Connect
-* 💼 **LinkedIn:** [linkedin.com/in/devparno](https://linkedin.com/in/devparno)
-* 📧 **Email:** [devparno@gmail.com](mailto:devparno@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/devparno](https://linkedin.com/in/erilycus)
+* 📧 **Email:** [dev@tailai.dev](mailto:dev@tailai.dev)
