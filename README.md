@@ -23,17 +23,6 @@ I am a self-taught DevSecOps & Systems Engineer who designs, breaks, and builds 
 
 ---
 
-### 📦 Notable Open-Source Work & Architecture Blocks
-
-#### 🛠️ Production-Ready AWS & Infrastructure Blocks (Go / TS / Terraform)
-* Reusable, modular **Terraform scripts** deploying isolated network configurations, container orchestration matrices via **ECS/EKS**, and serverless **AWS Lambda** routines featuring custom runtimes and execution paths.
-* Decoupled messaging infrastructures optimized for high-throughput using **Amazon SNS/SQS** queues and Kafka-driven communication architectures.
-
-#### 🤖 RovoDesk & ZeroHeads SaaS Ecosystems
-* Architecture and implementation of enterprise SaaS engines built around high-performance monorepos, multi-tenant database isolation strategies, complex workspace caching, and automated developer experience loops.
-
----
-
 ### 🛡️ Cybersecurity Philosophy
 > *"Secure infrastructure isn't built by checking compliance boxes; it's built by predicting how an engineer's deployment pipeline can be broken."*
 
